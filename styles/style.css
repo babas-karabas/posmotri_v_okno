@@ -213,16 +213,6 @@ ol {
   color: #545050;
 }
 
-.content__accent::after {
-  content: '';
-  position: absolute;
-  top: 50%;
-  left: 105%;
-  width: 20px;
-  height: 8px;
-  background-color: #545050;
-}
-
 .content__list {
   position: relative;
   height: 296px;
